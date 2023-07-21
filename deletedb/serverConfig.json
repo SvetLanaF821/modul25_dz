@@ -1,0 +1,13 @@
+{
+
+   "port" : 3306,
+
+   "addressdb" : "localhost",
+
+   "logindb" : "root",
+
+   "passworddb" : "",
+
+   "namedb" : "chatdb"
+
+ }
